@@ -1,0 +1,3 @@
+/home/ubtcm/kdtree_learn/kdTree/build/CMakeFiles/edit_cache.dir
+/home/ubtcm/kdtree_learn/kdTree/build/CMakeFiles/rebuild_cache.dir
+/home/ubtcm/kdtree_learn/kdTree/build/CMakeFiles/bstree.dir

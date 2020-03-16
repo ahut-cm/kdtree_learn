@@ -5,6 +5,7 @@
 #include <memory>
 #include <numeric>
 #include <iostream>
+#include <algorithm>
 
 template <typename PointType, int SplitDimension>
 class KDNode {

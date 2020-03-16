@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/bstree.dir/testKDTree.cpp.o  -o bstree 
